@@ -35,4 +35,4 @@ The resulting variant effect maps enable comparative analysis of any two protein
 simultaneously — for example, plotting dark activation scores against light activation scores 
 to identify variants that selectively alter one functional property while leaving another 
 intact. Nonsense and missense variants can be distinguished in this space, with missense 
-variants of interest clustering away from the loss-of-function nonsense baseline.
+variants of interest clustering away from the loss-of-function nonsense baseline.
